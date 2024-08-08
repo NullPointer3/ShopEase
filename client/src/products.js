@@ -5,6 +5,7 @@ const products = [
     description: 'High-quality wireless headphones with noise cancellation.',
     price: 99.99,
     category: 'Electronics',
+    rating: 3.4,
     image: 'client/public/images/wirelessheadphone.jpeg'
   },
   {
@@ -13,6 +14,7 @@ const products = [
     description: 'Feature-packed smartwatch with fitness tracking.',
     price: 149.99,
     category: 'Electronics',
+    rating: 4.5,
     image: 'client/public/images/smartwatch.jpeg',
   },
   {
@@ -21,6 +23,7 @@ const products = [
     description: 'Comfortable and durable running shoes for all terrains.',
     price: 89.99,
     category: 'Footwear',
+    rating: 4,
     image: 'client/public/images/runninshoes.jpeg',
   },
   {
@@ -29,6 +32,7 @@ const products = [
     description: 'Spacious and stylish backpack for everyday use.',
     price: 59.99,
     category: 'Accessories',
+    rating: 4.8,
     image: 'client/public/images/backpack.jpeg',
   },
   {
@@ -37,6 +41,7 @@ const products = [
     description: 'Eco-friendly water bottle with a sleek design.',
     price: 19.99,
     category: 'Accessories',
+    rating: 3.4,
     image: 'client/public/images/waterbottle.jpeg',
   },
   {
@@ -45,6 +50,7 @@ const products = [
     description: 'Non-slip yoga mat for your daily practice.',
     price: 29.99,
     category: 'Fitness',
+    rating: 2.4,
     image: 'client/public/images/yogamat.jpeg',
   },
   {
@@ -53,6 +59,7 @@ const products = [
     description: 'High-speed blender for smoothies and shakes.',
     price: 79.99,
     category: 'Home Appliances',
+    rating: 3.8,
     image: 'client/public/images/blender.jpeg',
   },
   {
@@ -61,6 +68,7 @@ const products = [
     description: 'Stylish sunglasses with UV protection.',
     price: 39.99,
     category: 'Accessories',
+    rating: 5,
     image: 'client/public/images/sunglasses.jpeg',
   },
   {
@@ -69,6 +77,7 @@ const products = [
     description: 'Adjustable laptop stand for better ergonomics.',
     price: 49.99,
     category: 'Office Supplies',
+    rating: 3.4,
     image: 'client/public/images/laptopstand.jpeg',
   },
   {
@@ -77,6 +86,7 @@ const products = [
     description: 'LED desk lamp with adjustable brightness.',
     price: 24.99,
     category: 'Office Supplies',
+    rating: 4.5,
     image: 'client/public/images/desklamp.jpeg',
   },
   {
